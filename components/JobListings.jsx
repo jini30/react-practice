@@ -1,5 +1,5 @@
 import React from 'react'
-import jobs from '../../src/jobs.json'
+import jobs from '../src/jobs.json'
 import JobListing from './JobListing'
 
 const JobListings = () => 
